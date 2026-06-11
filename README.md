@@ -25,3 +25,6 @@ A simple and responsive **Todo List** web application built with HTML, Bootstrap
 ## 👩‍💻 Author
 **Rajshree Kavia**  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rajshree-kavia/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/rajshree051205-cloud)
+
